@@ -1,0 +1,7 @@
+pi-marketplace/
+├── backend/             # Backend code (Node.js + Express)
+├── frontend/            # Frontend code (React/React Native)
+├── README.md            # Documentation about your project
+├── .gitignore           # Files to ignore in Git commits (e.g., node_modules)
+├── package.json         # For managing project dependencies (if using Node.js)
+└── LICENSE              # Optional: Add a license to your project
